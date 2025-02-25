@@ -1,0 +1,16 @@
+{
+  "name": "t4-visor-caminos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "ol": "latest",
+    "ol-hashed": "^2.1.0"
+  }
+}
